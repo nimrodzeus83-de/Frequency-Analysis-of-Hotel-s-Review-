@@ -1,5 +1,8 @@
 # Frequency Analysis of Hotels Services based from their Customer's Review 
 
+# Scenario:
+ - A hotel manager owns a three hotels which are Le Meridien, Lexis Suites, and The Hilton, the management of these three hotels collected different feedbacks from their customer's which are Excellent, Very Good, Good, and Poor, in order to know and improve which service quality should they improve and how they can improve it for their next customers of the three hotels.
+   
 # Summary:
  - In this report I used the data sets of customers review which are the Excellent, Very Good, Good and Poor that are being used to rate the hotel's services in Le Meridien, Lexis Suites, and The Hilton. And I applied the Frequency analysis to analyze the total number of customer's who rates the Excellent, Very Good, Good, and Poor. Analyzing the customer reviews of the hotel's services is an ideal way in identifying what are the reasons behind of having these kind of reviews and what are the solutions and services and offers that should they improve in order to have an excellent service to their customers 
 
@@ -20,7 +23,7 @@
 
  - With all of those results these three hotels offers an Excellent services that the customer needs in terms of Check In Service, Room Cleanliness, Food Quality, Wi-Fi Service, Staff Responsiveness, Room Service and Swimming Pool Services, But having a Rate of Poor service from their customer's can be implied from poor room cleanliness, mismatched expectation which are they can't able to meet like what are the customer's demands, having unhelpful staff, malfunction amenities and poor food quality.
    
- - But with the result of these three hotels having an Excellent rating from their customers in terms of their services, the recommendation of these report is to continue of what they are doing and what kind of services that they've offered to their customer's but they should be able to improve their services like capturing guest complaints and having an immediate solution to that certain employee's problem. 
+ - But with the result of these three hotels having an Excellent rating from their customers in terms of their services, the recommendation of these report is to continue of what they are doing and what kind of services that they've offered to their customer's but they should be able to improve their other services like capturing guest complaints and having an immediate solution to that certain employee's problem. 
 
 # File Source and Data Sets:
  - <a href="https://github.com/nimrodzeus83-de/Frequency-Analysis-of-Hotel-s-Review-/blob/main/new_data.csv">Hotel.csv</a>
